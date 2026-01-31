@@ -11,6 +11,4 @@ def sortArrayByParity(nums):
     return nums
     
 
-      
-
 print(sortArrayByParity([8, 3, 6, 4, 7, 1, 9, 5]))
